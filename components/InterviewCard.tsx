@@ -53,7 +53,7 @@ const InterviewCard = ({
 					</div>
 					<p className='line-clamp-2 mt-5'>
 						{feedback?.finalAssessment ||
-							"You haven&apos;t taken the interview. Take it now to improve the skills"}
+							"You haven't taken the interview. Take it now to improve the skills"}
 					</p>
 				</div>
 				<div className='flex flex-row justify-between'>
